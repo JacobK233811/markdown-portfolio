@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Profile Photo of Jacob Kasner](https://media-exp1.licdn.com/dms/image/C4E03AQEBviJxsnDkSA/profile-displayphoto-shrink_800_800/0/1596855643670?e=1617840000&v=beta&t=n2y4ArbTZPwIrRnUuTEQJJjkWf2hEXXq420u3cMPgco)
