@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Open-source mainter and all-star problem solver that mainly uses *Python* to take on the world.
