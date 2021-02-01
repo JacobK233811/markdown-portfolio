@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Classical Guitar
+2. Board Games
+3. Web Comics
